@@ -1,0 +1,25 @@
+{
+  "name": "node_pg2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "redis": "^4.0.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.2.0"
+  }
+}

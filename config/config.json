@@ -1,0 +1,6 @@
+{
+    "host" : "spaus-db.ckmwu2uiqcap.ap-northeast-2.rds.amazonaws.com",
+    "user" : "spaus",
+    "database" : "spaus_db",
+    "password" : "Spaus1234!!"
+}
