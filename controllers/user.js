@@ -1,6 +1,6 @@
 const User = require('../models/user')
 const wallet = require("../util/kas/wallet")
-const bcrypt = require('bcrypt')
+const bcrypt = require('bcryptjs')
 
 //  POST 유저 생성
 exports.postUser = async (req, res, next) => {

@@ -1,5 +1,5 @@
 const Login = require('../models/login')
-const bcrypt = require('bcrypt')
+const bcrypt = require('bcryptjs')
 const auth_jwt = require('../util/auth_jwt');
 
 //  POST 로그인 생성
